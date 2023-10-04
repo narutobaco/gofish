@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/trungng1992/gofish/common"
+	"github.com/narutobaco/gofish/common"
 )
 
 // DeviceType is

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/trungng1992/gofish/common"
+	"github.com/narutobaco/gofish/common"
 )
 
 // BootOrderTypes is the choice of boot order property to use when controller

@@ -30,7 +30,7 @@ linters-settings:
   gocyclo:
     min-complexity: 25
   goimports:
-    local-prefixes: github.com/trungng1992
+    local-prefixes: github.com/narutobaco
   gomnd:
     settings:
       mnd:

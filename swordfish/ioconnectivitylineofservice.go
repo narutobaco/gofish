@@ -7,7 +7,7 @@ package swordfish
 import (
 	"encoding/json"
 
-	"github.com/trungng1992/gofish/common"
+	"github.com/narutobaco/gofish/common"
 )
 
 // IOConnectivityLineOfService is used to specify the characteristics of

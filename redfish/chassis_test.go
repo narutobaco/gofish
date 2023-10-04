@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/trungng1992/gofish/common"
+	"github.com/narutobaco/gofish/common"
 )
 
 const TestAssetTag = "TestAssetTag"
@@ -195,6 +195,7 @@ func TestChassis(t *testing.T) {
 //
 // The required properties according to the spec are:
 // "required": [
+//
 //	"ChassisType",
 //	"@odata.id",
 //	"@odata.type",

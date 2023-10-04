@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/trungng1992/gofish/common"
+	"github.com/narutobaco/gofish/common"
 )
 
 // EventFormatType is

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/trungng1992/gofish/common"
+	"github.com/narutobaco/gofish/common"
 )
 
 var vlanNetworkInterfaceBody = `{

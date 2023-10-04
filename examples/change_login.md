@@ -9,7 +9,7 @@ This is an example snippet of changing the username and password of an account.
 package main
 
 import (
-	"github.com/trungng1992/gofish"
+	"github.com/narutobaco/gofish"
 )
 
 func main() {

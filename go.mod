@@ -1,3 +1,3 @@
-module github.com/trungng1992/gofish
+module github.com/narutobaco/gofish
 
-go 1.16
+go 1.20

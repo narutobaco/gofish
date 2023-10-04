@@ -1,6 +1,6 @@
 package redfish
 
-import "github.com/trungng1992/gofish/common"
+import "github.com/narutobaco/gofish/common"
 
 type CSOem struct {
 	Hpe CSHpe

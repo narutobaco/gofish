@@ -11,8 +11,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/trungng1992/gofish"
-	"github.com/trungng1992/gofish/redfish"
+	"github.com/narutobaco/gofish"
+	"github.com/narutobaco/gofish/redfish"
 )
 
 func main() {

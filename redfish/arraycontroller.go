@@ -31,6 +31,9 @@ type ArrayController struct {
 	// ReadCachePercent
 	ReadCachePercent int
 
+	// FirmwareVersion
+	FirmwareVersion common.FirmwareVersion
+
 	// Status shall contain any status or health properties
 	// of the resource.
 	Status common.Status
